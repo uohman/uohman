@@ -1,4 +1,4 @@
-## Hello! 👋 I'm Ulrika — a frontend developer & graphic designer
+## Hello! I'm Ulrika — a frontend developer & graphic designer 👋
 ### Background in graphic design ✍️
 I am an experienced creative with over ten years of experience as a graphic designer.
 
