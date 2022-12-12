@@ -1,6 +1,6 @@
 ## Hello! I'm Ulrika — a frontend developer & graphic designer 👋
 ### Background in graphic design ✍️
-I am an experienced creative with almost ten years of experience as a graphic designer.
+I’m a creative and experienced graphic designer who wanted do broaden my wings and so I learned how to code and became a frontend developer.
 
 ### Becoming a frontend developer 👩‍💻
 It all started with a lack of inspiration and a desire to challenge myself. I gave coding a try and really enjoyed the logical problem solving aspects of it. That led me to apply for the Technigo 22-week programming web boot camp, which I joined in fall '22.
